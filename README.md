@@ -8,7 +8,7 @@ Created a dynamic webpage on UFO sightings, in an attempt to prove once and for 
 ## Results
 What makes this webpage dynamic is that when a user enters criteria into the search bars, the table will automaticaly filter for the criteria that is entered. For example, if a user wants to see all of the UFO sightings in the year 2010 and only in the state of New York, the user can simply enter the date and the state initials, and the table will update and show only the filtered data.
 
-![Image of inputs and filtered table] (image.png)
+![Image of inputs and filtered table] (static/images/filtered_img.png)
 
 
 ## Summary
